@@ -1,0 +1,34 @@
+{
+    // Configure glob patterns for excluding files and folders.
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.meta": true,
+        "**/*.*.meta": true,
+        "**/*.unity": true,
+        "**/*.unityproj": true,
+        "**/*.mat": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.tga": true,
+        "**/*.cubemap": true,
+        "**/*.prefab": true,
+        "**/Library": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true,
+        "**/[Oo]bj" : true,
+        "**/[Ll]ogs" : true,
+
+        // Unity common asset folders
+        "**/[Pp]refabs" : true,
+        "**/[Ss]cenes" : true,
+        "**/[Mm]aterials" : true,
+        "**/[Pp]hysics[Mm]aterials" : true,
+        "**/[Ss]criptable[Oo]bjects" : true,
+
+        "**/TextMesh Pro" : true,
+    },
+
+    "workbench.colorTheme": "eppz!",
+    "workbench.iconTheme": "vscode-icons",
+}

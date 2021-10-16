@@ -1,0 +1,17 @@
+{
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"ms-dotnettools.csharp",
+		"unity.unity-debug",
+		"eamodio.gitlens",
+		"eppz.eppz-code",
+		"alefragnani.project-manager",
+		"wayou.vscode-todo-highlight",
+		"gruntfuggly.todo-tree",
+		"kleber-swf.unity-code-snippets",
+		"tobiah.unity-tools",
+		"ptd.vscode-unitymeta",
+		"vscode-icons-team.vscode-icons",
+		"editorconfig.editorconfig"
+	],
+}
