@@ -8,6 +8,9 @@
     You can also `Ctrl + Shift + p`, go to `Extensions: Show Recomended Extensions` and install them from there.
 4. Remove this README for your project and add your own
 
+## Next steps
+5. Execute VSCode command `>Unity Tools: Generate Organizational Folders`
+
 # Contents
 
 ## Git Ignores
