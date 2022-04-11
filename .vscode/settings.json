@@ -51,7 +51,7 @@
         "Obj/":true,
         "ProjectSettings/":true,
         "temp/":true,
-        "Temp/":true
+        "Temp/":true,
         "[Ll]ogs":true,
 
         // Unity common asset folders
